@@ -1,6 +1,4 @@
 nav:
     - Home: index.md
     - 0.0 Introduction: intro
-    - 1.0 Regression: regression
-    - 2.0 Classification: classification
     - Appendices: appendices
